@@ -1,0 +1,41 @@
+Panel,Comparison,Year,Age,Sex,Location,JSD,L1
+,SDI divergence (High vs Low),2023,10-14 years,Both sexes,High SDI vs Low SDI,0.26866502,0.891595572
+,SDI divergence (High vs Low),2023,15-19 years,Both sexes,High SDI vs Low SDI,0.225367649,0.826100256
+,SDI divergence (High vs Low),2023,20-24 years,Both sexes,High SDI vs Low SDI,0.253178801,0.828782871
+,SDI divergence (High vs Low),2023,5-9 years,Both sexes,High SDI vs Low SDI,0.31332969,1.036117899
+FigS2A,SDI divergence (High vs Low),1990,15-19 years,Both sexes,High SDI vs Low SDI,0.278848018,1.079118491
+FigS2A,SDI divergence (High vs Low),2000,15-19 years,Both sexes,High SDI vs Low SDI,0.267369458,1.042355957
+FigS2A,SDI divergence (High vs Low),2010,15-19 years,Both sexes,High SDI vs Low SDI,0.265067173,1.005483008
+FigS2A,SDI divergence (High vs Low),2019,15-19 years,Both sexes,High SDI vs Low SDI,0.207928726,0.872960221
+FigS2A,SDI divergence (High vs Low),2023,15-19 years,Both sexes,High SDI vs Low SDI,0.225367649,0.826100256
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Global,0.091800045,0.630621247
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,High SDI,0.127095531,0.674163974
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,High-middle SDI,0.082319897,0.620324206
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Low SDI,0.079878236,0.552076046
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Low-middle SDI,0.131044827,0.731105937
+FigS2B,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Middle SDI,0.072742512,0.580614522
+FigS2C,Sex divergence (Male vs Female),1990,15-19 years,Male vs Female,High SDI,0.058161249,0.459329902
+FigS2C,Sex divergence (Male vs Female),1990,15-19 years,Male vs Female,High-middle SDI,0.084970584,0.618538881
+FigS2C,Sex divergence (Male vs Female),1990,15-19 years,Male vs Female,Low SDI,0.105725083,0.594317052
+FigS2C,Sex divergence (Male vs Female),1990,15-19 years,Male vs Female,Low-middle SDI,0.084139432,0.560002719
+FigS2C,Sex divergence (Male vs Female),1990,15-19 years,Male vs Female,Middle SDI,0.08481632,0.613370194
+FigS2C,Sex divergence (Male vs Female),2000,15-19 years,Male vs Female,High SDI,0.054274526,0.399944682
+FigS2C,Sex divergence (Male vs Female),2000,15-19 years,Male vs Female,High-middle SDI,0.103937183,0.683403947
+FigS2C,Sex divergence (Male vs Female),2000,15-19 years,Male vs Female,Low SDI,0.102711274,0.601597736
+FigS2C,Sex divergence (Male vs Female),2000,15-19 years,Male vs Female,Low-middle SDI,0.090696612,0.590309288
+FigS2C,Sex divergence (Male vs Female),2000,15-19 years,Male vs Female,Middle SDI,0.085832938,0.626769246
+FigS2C,Sex divergence (Male vs Female),2010,15-19 years,Male vs Female,High SDI,0.051505945,0.430489373
+FigS2C,Sex divergence (Male vs Female),2010,15-19 years,Male vs Female,High-middle SDI,0.108683804,0.719414736
+FigS2C,Sex divergence (Male vs Female),2010,15-19 years,Male vs Female,Low SDI,0.086207422,0.541982115
+FigS2C,Sex divergence (Male vs Female),2010,15-19 years,Male vs Female,Low-middle SDI,0.097726492,0.637727953
+FigS2C,Sex divergence (Male vs Female),2010,15-19 years,Male vs Female,Middle SDI,0.089227909,0.628135559
+FigS2C,Sex divergence (Male vs Female),2019,15-19 years,Male vs Female,High SDI,0.062168007,0.479895966
+FigS2C,Sex divergence (Male vs Female),2019,15-19 years,Male vs Female,High-middle SDI,0.08587564,0.633995785
+FigS2C,Sex divergence (Male vs Female),2019,15-19 years,Male vs Female,Low SDI,0.100440423,0.626217023
+FigS2C,Sex divergence (Male vs Female),2019,15-19 years,Male vs Female,Low-middle SDI,0.109117802,0.673187774
+FigS2C,Sex divergence (Male vs Female),2019,15-19 years,Male vs Female,Middle SDI,0.082117729,0.599110354
+FigS2C,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,High SDI,0.127095531,0.674163974
+FigS2C,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,High-middle SDI,0.082319897,0.620324206
+FigS2C,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Low SDI,0.079878236,0.552076046
+FigS2C,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Low-middle SDI,0.131044827,0.731105937
+FigS2C,Sex divergence (Male vs Female),2023,15-19 years,Male vs Female,Middle SDI,0.072742512,0.580614522
