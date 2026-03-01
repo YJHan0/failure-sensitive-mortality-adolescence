@@ -1,0 +1,49 @@
+age,cause_key,yll,domain_label,cause,rank_within_top12
+5-9 years,lower respiratory infections,4121124.04,NA,Lower respiratory infections,1
+5-9 years,road injuries,3449536.21,NA,Road injuries,2
+5-9 years,drowning,2526431.76,NA,Drowning,3
+5-9 years,diarrheal diseases,2432581.92,NA,Diarrheal diseases,4
+5-9 years,malaria,2369626.09,NA,Malaria,5
+5-9 years,meningitis,1995830.01,NA,Meningitis,6
+5-9 years,congenital birth defects,1673373.4,NA,Congenital birth defects,7
+5-9 years,idiopathic epilepsy,968851.34,NA,Idiopathic epilepsy,8
+5-9 years,tuberculosis,767721.4,NA,Tuberculosis,9
+5-9 years,conflict and terrorism,589935.62,NA,Conflict and terrorism,10
+5-9 years,hiv aids,580682.87,NA,HIV/AIDS,11
+5-9 years,interpersonal violence,433334.24,NA,Interpersonal violence,12
+10-14 years,road injuries,3051427.59,NA,Road injuries,1
+10-14 years,lower respiratory infections,2300557.24,NA,Lower respiratory infections,2
+10-14 years,drowning,2193720.17,NA,Drowning,3
+10-14 years,meningitis,1531224.63,NA,Meningitis,4
+10-14 years,congenital birth defects,1500552.87,NA,Congenital birth defects,5
+10-14 years,idiopathic epilepsy,1318368.14,NA,Idiopathic epilepsy,6
+10-14 years,malaria,1299065.23,NA,Malaria,7
+10-14 years,diarrheal diseases,1258152.71,NA,Diarrheal diseases,8
+10-14 years,tuberculosis,706281.57,NA,Tuberculosis,9
+10-14 years,hiv aids,688444.73,NA,HIV/AIDS,10
+10-14 years,interpersonal violence,635588.5,NA,Interpersonal violence,11
+10-14 years,conflict and terrorism,383727.11,NA,Conflict and terrorism,12
+15-19 years,road injuries,7074762.46,NA,Road injuries,1
+15-19 years,interpersonal violence,3028793.05,NA,Interpersonal violence,2
+15-19 years,conflict and terrorism,2492105.76,NA,Conflict and terrorism,3
+15-19 years,idiopathic epilepsy,1909943.9,NA,Idiopathic epilepsy,4
+15-19 years,lower respiratory infections,1658482.49,NA,Lower respiratory infections,5
+15-19 years,tuberculosis,1568022.96,NA,Tuberculosis,6
+15-19 years,drowning,1508246.72,NA,Drowning,7
+15-19 years,hiv aids,1419026.93,NA,HIV/AIDS,8
+15-19 years,malaria,1387350.71,NA,Malaria,9
+15-19 years,meningitis,1287135.95,NA,Meningitis,10
+15-19 years,diarrheal diseases,1270771.69,NA,Diarrheal diseases,11
+15-19 years,congenital birth defects,850454.51,NA,Congenital birth defects,12
+20-24 years,road injuries,8310574.29,NA,Road injuries,1
+20-24 years,interpersonal violence,4133395.07,NA,Interpersonal violence,2
+20-24 years,conflict and terrorism,2587468.93,NA,Conflict and terrorism,3
+20-24 years,hiv aids,2202862.03,NA,HIV/AIDS,4
+20-24 years,tuberculosis,2079948.71,NA,Tuberculosis,5
+20-24 years,idiopathic epilepsy,1590924.32,NA,Idiopathic epilepsy,6
+20-24 years,lower respiratory infections,1399466.69,NA,Lower respiratory infections,7
+20-24 years,malaria,1316987.11,NA,Malaria,8
+20-24 years,diarrheal diseases,1129240.27,NA,Diarrheal diseases,9
+20-24 years,drowning,1094822.53,NA,Drowning,10
+20-24 years,meningitis,843555.11,NA,Meningitis,11
+20-24 years,congenital birth defects,646676.36,NA,Congenital birth defects,12
